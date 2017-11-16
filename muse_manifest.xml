@@ -1,0 +1,46 @@
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="element.github.io/elementythwebpage" resolutions="1x" timestamp="1510795782903">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="3774494683" ref="index"/>
+    <file name="nomq_index.css" crc="4023775357" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="17924269" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="278381782" ref="index"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index"/>
+    <file name="require.js" crc="3861931657" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="4267800278" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="nasa site1.jpg" crc="4234296350" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nasa site1667x1186.jpg" crc="54111885" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nasa site1640x1138.jpg" crc="3978496407" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nasa site1568x1010.jpg" crc="262006360" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nasa site1480x854.jpg" crc="4039490989" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nasa site1414x737.jpg" crc="508816002" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nasa site1375x667.jpg" crc="4019134817" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nasa site1320x569.jpg" crc="4190600057" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+  </folder>
+  <file name="index.html" crc="101729894" seo="true" mt="1510795774274" redirect="true"/>
+</manifest>
